@@ -1,3 +1,3 @@
 # python
 
-my pythin stuff here !
+my python stuff here !
